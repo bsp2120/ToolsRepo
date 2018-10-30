@@ -1,7 +1,4 @@
 #!/bin/bash
 
-Python Python Python
-Want me some Python
-Code is creative
-And so is nylon
-
+"Python Python Python
+Good food, good exercise, good times"
